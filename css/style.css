@@ -1,0 +1,148 @@
+.container {
+  background-color: #000000d0;
+  margin-top: 20px;
+  border-radius: 10px;
+  height: auto;
+  max-width: 600px;
+  
+}
+.card{
+  background-color: #000000d0;
+  margin-top: 100px;
+  border-radius: 10px;
+  height: auto;
+  max-width: 1200px;
+margin-left: 70px;
+
+}
+ body { 
+ 
+  background-image: url('https://source.unsplash.com/1600x900/?cities ')  ;
+ background-size: auto;
+ background-position: center;
+} 
+
+
+.form-control,
+.btn {
+  margin-top: 20px;
+  color: #f5eaed;
+  background-color: #7c7c7c2b;
+  border-radius: 20px;
+}
+
+#current-btn {
+  position: relative;
+  left: 40px;
+}
+
+.btn-info {
+  background-color: #7c7c7c4b;
+ border-color: aliceblue;
+ 
+}
+
+.btn-info:hover {
+  background-color: white;
+  border-color: #faf3f5;
+}
+.city-form {
+  margin:0px;
+} 
+.date {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+  display: block;
+
+}
+.degrees {
+  display: inline;
+  font-size: medium;
+  position: relative;
+  top: -40px;
+  left: 10px;
+}
+#fahrenheit-link {
+  text-decoration: none;
+  color: white;
+}
+
+#celsius-link {
+  text-decoration: none;
+  color: white;
+}
+.current-day {
+  width: 125px;
+  padding-top: 30px;
+  position: relative;
+  left: 30px;
+}
+.current-city {
+  margin-top: 20px;
+  color: white;
+  font-family: "Montserrat Alternates", sans-serif;
+}
+.current-temp {
+  display: inline;
+  font-size: 60px;
+  position: relative;
+  top: -20px;
+}
+h1 {
+  font-size: 24px;
+}
+
+h6 {
+  text-transform: uppercase;
+}
+.current-stats {
+  position: relative;
+  top: 60px;
+  left: 70px;
+  font-size: 14px;
+}
+
+.small-icons {
+  width: 15px;
+  padding: 10px 0px;
+  position: relative;
+  left: -10px;
+}
+.location {
+  display:inline;
+  font-size: 35px;
+  
+  
+}
+.location-pin {
+  width: 15px;
+  position: relative;
+  bottom: 5px;
+  
+  
+}
+p {
+  color: white;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: lighter;
+  display: inline;
+}
+.days {
+  margin-top: 20px;
+  color: white;
+  font-family: "Montserrat Alternates", sans-serif;
+  text-align: center;
+}
+.the-week {
+  margin: 0 auto;
+}
+.day-icons {
+  width: 60px;
+  text-align: center;
+}
+
+.max-temp {
+  font-weight: bolder;
+}
+
